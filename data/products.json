@@ -1,0 +1,14 @@
+{
+    "checking_basic": {
+        "name": "Basic Checking",
+        "type": "deposit",
+        "requirements": ["valid_id"],
+        "description": "No monthly fees, easy access."
+    },
+    "auto_loan": {
+        "name": "Auto Loan",
+        "type": "loan",
+        "requirements": ["credit_check", "income_verification"],
+        "description": "Competitive rates for new and used vehicles."
+    }
+}
